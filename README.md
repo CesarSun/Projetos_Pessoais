@@ -50,5 +50,5 @@ para comer a comida e crescer, evitando colidir com as paredes ou com o próprio
 - Pygame
 
 
-##Contribuição
+## Contribuição
 Sinta-se à vontade para contribuir com este repositório abrindo issues e pull requests para correções, melhorias e adição de novos projetos.
